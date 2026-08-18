@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-18T09:42:26.243Z",
+  "updatedAt": "2026-08-18T09:42:37.179Z",
   "trips": [
     {
       "id": "b7dc213c-aea9-415d-8191-928081620488",
@@ -9,7 +9,9 @@
       "end": "2026-08-19",
       "notes": "",
       "color": "#2f5d50",
-      "participants": [],
+      "participants": [
+        "Ale&Costi"
+      ],
       "segments": [
         {
           "id": "80343996-97be-415c-a71b-b641041fb902",
@@ -43,10 +45,10 @@
         }
       ],
       "createdAt": "2026-08-18T09:42:07.428Z",
-      "modifiedAt": "2026-08-18T09:42:24.073Z",
+      "modifiedAt": "2026-08-18T09:42:34.767Z",
       "modifiedBy": "Ale"
     }
   ],
   "deletedTrips": [],
-  "lastEditLabel": "aggiunta tratta Treno"
+  "lastEditLabel": "modificati partecipanti"
 }
