@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-18T13:22:22.882Z",
+  "updatedAt": "2026-08-18T15:15:58.893Z",
   "trips": [
     {
       "id": "0d7be459-4c88-4e13-878e-ec787dfb3374",
@@ -70,19 +70,6 @@
       "segments": [],
       "createdAt": "2026-08-18T13:14:15.338Z",
       "modifiedAt": "2026-08-18T13:14:15.338Z",
-      "modifiedBy": "Ale"
-    },
-    {
-      "id": "2512308a-2d86-4655-8f64-4ac512c4bb73",
-      "title": "Nuovo viaggio",
-      "start": "",
-      "end": "",
-      "notes": "",
-      "color": "#4e6b8a",
-      "participants": [],
-      "segments": [],
-      "createdAt": "2026-08-18T13:12:29.871Z",
-      "modifiedAt": "2026-08-18T13:12:29.872Z",
       "modifiedBy": "Ale"
     },
     {
@@ -163,7 +150,12 @@
       "id": "7c06a8ae-d77c-4404-b7c3-a6f78afd9e37",
       "deletedAt": "2026-08-18T10:01:38.908Z",
       "deletedBy": "Ale"
+    },
+    {
+      "id": "2512308a-2d86-4655-8f64-4ac512c4bb73",
+      "deletedAt": "2026-08-18T15:15:56.770Z",
+      "deletedBy": "Costi"
     }
   ],
-  "lastEditLabel": "modificati partecipanti"
+  "lastEditLabel": "eliminato viaggio"
 }
