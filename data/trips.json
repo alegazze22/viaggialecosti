@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-18T20:28:39.276Z",
+  "updatedAt": "2026-08-18T20:28:42.800Z",
   "trips": [
     {
       "id": "91739f81-a644-411c-8713-615a82af1cf7",
@@ -8,11 +8,11 @@
       "start": "",
       "end": "",
       "notes": "",
-      "color": "#7CB518",
+      "color": "#2A9D8F",
       "participants": [],
       "segments": [],
       "createdAt": "2026-08-18T20:28:37.245Z",
-      "modifiedAt": "2026-08-18T20:28:37.246Z",
+      "modifiedAt": "2026-08-18T20:28:40.693Z",
       "modifiedBy": "Ale"
     },
     {
@@ -170,5 +170,5 @@
       "deletedBy": "Costi"
     }
   ],
-  "lastEditLabel": "nuovo viaggio"
+  "lastEditLabel": "cambiato colore"
 }
