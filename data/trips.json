@@ -1,11 +1,11 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-18T13:06:18.547Z",
+  "updatedAt": "2026-08-18T13:06:25.747Z",
   "trips": [
     {
       "id": "0d7be459-4c88-4e13-878e-ec787dfb3374",
       "title": "Madrid",
-      "start": "",
+      "start": "2026-01-30",
       "end": "",
       "notes": "",
       "color": "#bd6b4a",
@@ -14,7 +14,7 @@
       ],
       "segments": [],
       "createdAt": "2026-08-18T13:06:10.049Z",
-      "modifiedAt": "2026-08-18T13:06:16.363Z",
+      "modifiedAt": "2026-08-18T13:06:23.573Z",
       "modifiedBy": "Costi"
     },
     {
@@ -55,5 +55,5 @@
       "deletedBy": "Ale"
     }
   ],
-  "lastEditLabel": "modificati partecipanti"
+  "lastEditLabel": "modificato viaggio"
 }
