@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-18T09:49:30.581Z",
+  "updatedAt": "2026-08-18T10:01:36.546Z",
   "trips": [
     {
       "id": "7c06a8ae-d77c-4404-b7c3-a6f78afd9e37",
@@ -47,52 +47,6 @@
       "createdAt": "2026-08-18T09:48:49.307Z",
       "modifiedAt": "2026-08-18T09:49:08.683Z",
       "modifiedBy": "Ale"
-    },
-    {
-      "id": "40d64837-42b6-41d6-bde3-f0f6f3373786",
-      "title": "Nuovo viaggio",
-      "start": "2026-08-05",
-      "end": "2026-08-20",
-      "notes": "",
-      "color": "#2f5d50",
-      "participants": [
-        "Ale&Costi"
-      ],
-      "segments": [
-        {
-          "id": "37f7d729-a076-4ec2-9b06-ee1824cf8f5b",
-          "mode": "train",
-          "waypoints": [
-            [
-              10.3091256,
-              43.5507317
-            ],
-            [
-              12.4829321,
-              41.8933203
-            ]
-          ],
-          "waypointNames": [
-            "Livorno",
-            "Roma"
-          ],
-          "coords": [
-            [
-              10.3091256,
-              43.5507317
-            ],
-            [
-              12.4829321,
-              41.8933203
-            ]
-          ],
-          "distanceKm": 255.9,
-          "routed": false
-        }
-      ],
-      "createdAt": "2026-08-18T09:46:47.310Z",
-      "modifiedAt": "2026-08-18T09:48:11.214Z",
-      "modifiedBy": "Ale"
     }
   ],
   "deletedTrips": [
@@ -104,6 +58,11 @@
     {
       "id": "ee175cfb-f056-4329-99a9-d8ea27e4ad9c",
       "deletedAt": "2026-08-18T09:49:28.348Z",
+      "deletedBy": "Ale"
+    },
+    {
+      "id": "40d64837-42b6-41d6-bde3-f0f6f3373786",
+      "deletedAt": "2026-08-18T10:01:34.476Z",
       "deletedBy": "Ale"
     }
   ],
