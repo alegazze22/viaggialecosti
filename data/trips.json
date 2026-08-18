@@ -1,17 +1,17 @@
 {
   "version": 2,
-  "updatedAt": "2026-08-18T09:08:51.439Z",
+  "updatedAt": "2026-08-18T09:08:55.534Z",
   "trips": [
     {
       "id": "044f28ba-d4c5-4978-a741-95d888db66d6",
       "title": "Tuscia",
-      "start": "",
+      "start": "2026-08-21",
       "end": "",
       "notes": "",
       "color": "#2f5d50",
       "segments": [],
       "createdAt": "2026-08-18T09:08:35.788Z",
-      "modifiedAt": "2026-08-18T09:08:49.163Z",
+      "modifiedAt": "2026-08-18T09:08:53.363Z",
       "modifiedBy": "Ale"
     }
   ],
