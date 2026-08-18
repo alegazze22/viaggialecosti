@@ -1,7 +1,20 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-18T13:05:26.438Z",
+  "updatedAt": "2026-08-18T13:06:12.603Z",
   "trips": [
+    {
+      "id": "0d7be459-4c88-4e13-878e-ec787dfb3374",
+      "title": "Nuovo viaggio",
+      "start": "",
+      "end": "",
+      "notes": "",
+      "color": "#bd6b4a",
+      "participants": [],
+      "segments": [],
+      "createdAt": "2026-08-18T13:06:10.049Z",
+      "modifiedAt": "2026-08-18T13:06:10.049Z",
+      "modifiedBy": "Costi"
+    },
     {
       "id": "40f13198-5269-4c03-9999-6a918b7913fb",
       "title": "Praga",
@@ -40,5 +53,5 @@
       "deletedBy": "Ale"
     }
   ],
-  "lastEditLabel": "cambiato colore"
+  "lastEditLabel": "nuovo viaggio"
 }
