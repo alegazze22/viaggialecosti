@@ -1,11 +1,11 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-18T09:48:56.787Z",
+  "updatedAt": "2026-08-18T09:48:58.836Z",
   "trips": [
     {
       "id": "7c06a8ae-d77c-4404-b7c3-a6f78afd9e37",
       "title": "Nuovo viaggio",
-      "start": "",
+      "start": "2026-08-01",
       "end": "2026-08-03",
       "notes": "",
       "color": "#4e6b8a",
@@ -14,7 +14,7 @@
       ],
       "segments": [],
       "createdAt": "2026-08-18T09:48:49.307Z",
-      "modifiedAt": "2026-08-18T09:48:54.571Z",
+      "modifiedAt": "2026-08-18T09:48:56.642Z",
       "modifiedBy": "Ale"
     },
     {
