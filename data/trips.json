@@ -1,18 +1,20 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-18T09:46:49.379Z",
+  "updatedAt": "2026-08-18T09:48:08.530Z",
   "trips": [
     {
       "id": "40d64837-42b6-41d6-bde3-f0f6f3373786",
       "title": "Nuovo viaggio",
-      "start": "",
-      "end": "",
+      "start": "2026-08-05",
+      "end": "2026-08-20",
       "notes": "",
       "color": "#2f5d50",
-      "participants": [],
+      "participants": [
+        "Ale&Costi"
+      ],
       "segments": [],
       "createdAt": "2026-08-18T09:46:47.310Z",
-      "modifiedAt": "2026-08-18T09:46:47.310Z",
+      "modifiedAt": "2026-08-18T09:48:06.340Z",
       "modifiedBy": "Ale"
     }
   ],
@@ -23,5 +25,5 @@
       "deletedBy": "Ale"
     }
   ],
-  "lastEditLabel": "nuovo viaggio"
+  "lastEditLabel": "modificati partecipanti"
 }
