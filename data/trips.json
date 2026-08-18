@@ -1,54 +1,13 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-18T09:42:37.179Z",
-  "trips": [
+  "updatedAt": "2026-08-18T09:43:42.530Z",
+  "trips": [],
+  "deletedTrips": [
     {
       "id": "b7dc213c-aea9-415d-8191-928081620488",
-      "title": "Nuovo viaggio",
-      "start": "2026-08-05",
-      "end": "2026-08-19",
-      "notes": "",
-      "color": "#2f5d50",
-      "participants": [
-        "Ale&Costi"
-      ],
-      "segments": [
-        {
-          "id": "80343996-97be-415c-a71b-b641041fb902",
-          "mode": "train",
-          "waypoints": [
-            [
-              10.6797912,
-              43.4714722
-            ],
-            [
-              10.3402239,
-              42.7902379
-            ]
-          ],
-          "waypointNames": [
-            "Pisa",
-            "Livorno"
-          ],
-          "coords": [
-            [
-              10.6797912,
-              43.4714722
-            ],
-            [
-              10.3402239,
-              42.7902379
-            ]
-          ],
-          "distanceKm": 80.6,
-          "routed": false
-        }
-      ],
-      "createdAt": "2026-08-18T09:42:07.428Z",
-      "modifiedAt": "2026-08-18T09:42:34.767Z",
-      "modifiedBy": "Ale"
+      "deletedAt": "2026-08-18T09:43:40.398Z",
+      "deletedBy": "Ale"
     }
   ],
-  "deletedTrips": [],
-  "lastEditLabel": "modificati partecipanti"
+  "lastEditLabel": "eliminato viaggio"
 }
