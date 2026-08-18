@@ -1,7 +1,21 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-18T09:43:42.530Z",
-  "trips": [],
+  "updatedAt": "2026-08-18T09:46:49.379Z",
+  "trips": [
+    {
+      "id": "40d64837-42b6-41d6-bde3-f0f6f3373786",
+      "title": "Nuovo viaggio",
+      "start": "",
+      "end": "",
+      "notes": "",
+      "color": "#2f5d50",
+      "participants": [],
+      "segments": [],
+      "createdAt": "2026-08-18T09:46:47.310Z",
+      "modifiedAt": "2026-08-18T09:46:47.310Z",
+      "modifiedBy": "Ale"
+    }
+  ],
   "deletedTrips": [
     {
       "id": "b7dc213c-aea9-415d-8191-928081620488",
@@ -9,5 +23,5 @@
       "deletedBy": "Ale"
     }
   ],
-  "lastEditLabel": "eliminato viaggio"
+  "lastEditLabel": "nuovo viaggio"
 }
