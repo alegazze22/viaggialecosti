@@ -1,20 +1,7 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-18T21:11:13.360Z",
+  "updatedAt": "2026-08-18T21:13:08.031Z",
   "trips": [
-    {
-      "id": "91739f81-a644-411c-8713-615a82af1cf7",
-      "title": "Nuovo viaggio",
-      "start": "",
-      "end": "",
-      "notes": "",
-      "color": "#2A9D8F",
-      "participants": [],
-      "segments": [],
-      "createdAt": "2026-08-18T20:28:37.245Z",
-      "modifiedAt": "2026-08-18T20:28:40.693Z",
-      "modifiedBy": "Ale"
-    },
     {
       "id": "0d7be459-4c88-4e13-878e-ec787dfb3374",
       "title": "Madrid",
@@ -164,7 +151,12 @@
       "id": "2512308a-2d86-4655-8f64-4ac512c4bb73",
       "deletedAt": "2026-08-18T15:15:56.770Z",
       "deletedBy": "Costi"
+    },
+    {
+      "id": "91739f81-a644-411c-8713-615a82af1cf7",
+      "deletedAt": "2026-08-18T21:13:05.761Z",
+      "deletedBy": "Ale"
     }
   ],
-  "lastEditLabel": "modificati partecipanti"
+  "lastEditLabel": "eliminato viaggio"
 }
