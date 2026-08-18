@@ -1,20 +1,20 @@
 {
   "version": 2,
-  "updatedAt": "2026-08-18T09:08:37.885Z",
+  "updatedAt": "2026-08-18T09:08:51.439Z",
   "trips": [
     {
       "id": "044f28ba-d4c5-4978-a741-95d888db66d6",
-      "title": "Nuovo viaggio",
+      "title": "Tuscia",
       "start": "",
       "end": "",
       "notes": "",
       "color": "#2f5d50",
       "segments": [],
       "createdAt": "2026-08-18T09:08:35.788Z",
-      "modifiedAt": "2026-08-18T09:08:35.788Z",
+      "modifiedAt": "2026-08-18T09:08:49.163Z",
       "modifiedBy": "Ale"
     }
   ],
   "deletedTrips": [],
-  "lastEditLabel": "nuovo viaggio"
+  "lastEditLabel": "modificato viaggio"
 }
