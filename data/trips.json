@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-18T13:09:57.328Z",
+  "updatedAt": "2026-08-18T13:10:38.006Z",
   "trips": [
     {
       "id": "0d7be459-4c88-4e13-878e-ec787dfb3374",
@@ -67,10 +67,50 @@
       "participants": [
         "Ale&Costi"
       ],
-      "segments": [],
+      "segments": [
+        {
+          "id": "b6112d05-dd5d-40e6-81f0-b34aa84722c9",
+          "mode": "plane",
+          "waypoints": [
+            [
+              10.395527,
+              43.6847937
+            ],
+            [
+              14.4212535,
+              50.0874654
+            ],
+            [
+              10.395527,
+              43.6847937
+            ]
+          ],
+          "waypointNames": [
+            "Aeroporto internazionale Galileo Galilei",
+            "Praha",
+            "Aeroporto internazionale Galileo Galilei"
+          ],
+          "coords": [
+            [
+              10.395527,
+              43.6847937
+            ],
+            [
+              14.4212535,
+              50.0874654
+            ],
+            [
+              10.395527,
+              43.6847937
+            ]
+          ],
+          "distanceKm": 1549.2,
+          "routed": false
+        }
+      ],
       "createdAt": "2026-08-18T13:04:10.246Z",
-      "modifiedAt": "2026-08-18T13:05:24.205Z",
-      "modifiedBy": "Costi"
+      "modifiedAt": "2026-08-18T13:10:35.848Z",
+      "modifiedBy": "Ale"
     }
   ],
   "deletedTrips": [
