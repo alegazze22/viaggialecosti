@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-08-18T09:29:33.639Z",
+  "updatedAt": "2026-08-18T09:29:53.273Z",
   "trips": [
     {
       "id": "1bdafc88-e8a7-46a4-b4d2-dd9fef3ccee7",
@@ -9,9 +9,40 @@
       "end": "2026-08-07",
       "notes": "",
       "color": "#b2504e",
-      "segments": [],
+      "segments": [
+        {
+          "id": "e88dc352-001c-424e-98be-0cc332fe2fee",
+          "mode": "plane",
+          "waypoints": [
+            [
+              10.418421766227965,
+              43.733682526675665
+            ],
+            [
+              13.351174878618053,
+              38.12410617670466
+            ]
+          ],
+          "waypointNames": [
+            "Destinazione 1",
+            "Destinazione 2"
+          ],
+          "coords": [
+            [
+              10.418421766227965,
+              43.733682526675665
+            ],
+            [
+              13.351174878618053,
+              38.12410617670466
+            ]
+          ],
+          "distanceKm": 670.5,
+          "routed": false
+        }
+      ],
       "createdAt": "2026-08-18T09:28:53.385Z",
-      "modifiedAt": "2026-08-18T09:29:31.184Z",
+      "modifiedAt": "2026-08-18T09:29:50.587Z",
       "modifiedBy": "Ale"
     },
     {
@@ -27569,5 +27600,5 @@
     }
   ],
   "deletedTrips": [],
-  "lastEditLabel": "cambiato colore"
+  "lastEditLabel": "aggiunta tratta Aereo"
 }
