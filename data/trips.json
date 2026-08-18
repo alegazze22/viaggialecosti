@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-18T09:49:10.875Z",
+  "updatedAt": "2026-08-18T09:49:30.581Z",
   "trips": [
     {
       "id": "7c06a8ae-d77c-4404-b7c3-a6f78afd9e37",
@@ -46,19 +46,6 @@
       ],
       "createdAt": "2026-08-18T09:48:49.307Z",
       "modifiedAt": "2026-08-18T09:49:08.683Z",
-      "modifiedBy": "Ale"
-    },
-    {
-      "id": "ee175cfb-f056-4329-99a9-d8ea27e4ad9c",
-      "title": "Nuovo viaggio",
-      "start": "",
-      "end": "",
-      "notes": "",
-      "color": "#bd6b4a",
-      "participants": [],
-      "segments": [],
-      "createdAt": "2026-08-18T09:48:15.188Z",
-      "modifiedAt": "2026-08-18T09:48:15.189Z",
       "modifiedBy": "Ale"
     },
     {
@@ -113,7 +100,12 @@
       "id": "b7dc213c-aea9-415d-8191-928081620488",
       "deletedAt": "2026-08-18T09:43:40.398Z",
       "deletedBy": "Ale"
+    },
+    {
+      "id": "ee175cfb-f056-4329-99a9-d8ea27e4ad9c",
+      "deletedAt": "2026-08-18T09:49:28.348Z",
+      "deletedBy": "Ale"
     }
   ],
-  "lastEditLabel": "aggiunta tratta Aereo"
+  "lastEditLabel": "eliminato viaggio"
 }
