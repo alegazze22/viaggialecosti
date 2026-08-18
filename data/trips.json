@@ -1,7 +1,20 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-18T09:48:13.354Z",
+  "updatedAt": "2026-08-18T09:48:17.292Z",
   "trips": [
+    {
+      "id": "ee175cfb-f056-4329-99a9-d8ea27e4ad9c",
+      "title": "Nuovo viaggio",
+      "start": "",
+      "end": "",
+      "notes": "",
+      "color": "#bd6b4a",
+      "participants": [],
+      "segments": [],
+      "createdAt": "2026-08-18T09:48:15.188Z",
+      "modifiedAt": "2026-08-18T09:48:15.189Z",
+      "modifiedBy": "Ale"
+    },
     {
       "id": "40d64837-42b6-41d6-bde3-f0f6f3373786",
       "title": "Nuovo viaggio",
@@ -56,5 +69,5 @@
       "deletedBy": "Ale"
     }
   ],
-  "lastEditLabel": "aggiunta tratta Treno"
+  "lastEditLabel": "nuovo viaggio"
 }
