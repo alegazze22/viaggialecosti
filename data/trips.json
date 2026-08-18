@@ -1,18 +1,18 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-18T13:04:23.430Z",
+  "updatedAt": "2026-08-18T13:04:35.889Z",
   "trips": [
     {
       "id": "40f13198-5269-4c03-9999-6a918b7913fb",
       "title": "Praga",
-      "start": "",
+      "start": "2023-12-19",
       "end": "",
       "notes": "",
       "color": "#2f5d50",
       "participants": [],
       "segments": [],
       "createdAt": "2026-08-18T13:04:10.246Z",
-      "modifiedAt": "2026-08-18T13:04:21.265Z",
+      "modifiedAt": "2026-08-18T13:04:33.447Z",
       "modifiedBy": "Costi"
     }
   ],
