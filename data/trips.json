@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-18T09:42:13.523Z",
+  "updatedAt": "2026-08-18T09:42:26.243Z",
   "trips": [
     {
       "id": "b7dc213c-aea9-415d-8191-928081620488",
@@ -10,12 +10,43 @@
       "notes": "",
       "color": "#2f5d50",
       "participants": [],
-      "segments": [],
+      "segments": [
+        {
+          "id": "80343996-97be-415c-a71b-b641041fb902",
+          "mode": "train",
+          "waypoints": [
+            [
+              10.6797912,
+              43.4714722
+            ],
+            [
+              10.3402239,
+              42.7902379
+            ]
+          ],
+          "waypointNames": [
+            "Pisa",
+            "Livorno"
+          ],
+          "coords": [
+            [
+              10.6797912,
+              43.4714722
+            ],
+            [
+              10.3402239,
+              42.7902379
+            ]
+          ],
+          "distanceKm": 80.6,
+          "routed": false
+        }
+      ],
       "createdAt": "2026-08-18T09:42:07.428Z",
-      "modifiedAt": "2026-08-18T09:42:11.339Z",
+      "modifiedAt": "2026-08-18T09:42:24.073Z",
       "modifiedBy": "Ale"
     }
   ],
   "deletedTrips": [],
-  "lastEditLabel": "modificato viaggio"
+  "lastEditLabel": "aggiunta tratta Treno"
 }
