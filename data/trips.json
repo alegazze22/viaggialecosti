@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-18T09:48:58.836Z",
+  "updatedAt": "2026-08-18T09:49:10.875Z",
   "trips": [
     {
       "id": "7c06a8ae-d77c-4404-b7c3-a6f78afd9e37",
@@ -12,9 +12,40 @@
       "participants": [
         "Ale&Costi"
       ],
-      "segments": [],
+      "segments": [
+        {
+          "id": "b075f56a-6975-4744-8495-1ea6565b9971",
+          "mode": "plane",
+          "waypoints": [
+            [
+              11.112921162208835,
+              42.76591645396985
+            ],
+            [
+              12.483615881045921,
+              43.9376604903544
+            ]
+          ],
+          "waypointNames": [
+            "Destinazione 1",
+            "Destinazione 2"
+          ],
+          "coords": [
+            [
+              11.112921162208835,
+              42.76591645396985
+            ],
+            [
+              12.483615881045921,
+              43.9376604903544
+            ]
+          ],
+          "distanceKm": 171,
+          "routed": false
+        }
+      ],
       "createdAt": "2026-08-18T09:48:49.307Z",
-      "modifiedAt": "2026-08-18T09:48:56.642Z",
+      "modifiedAt": "2026-08-18T09:49:08.683Z",
       "modifiedBy": "Ale"
     },
     {
@@ -84,5 +115,5 @@
       "deletedBy": "Ale"
     }
   ],
-  "lastEditLabel": "modificato viaggio"
+  "lastEditLabel": "aggiunta tratta Aereo"
 }
