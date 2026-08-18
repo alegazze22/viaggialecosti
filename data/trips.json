@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-18T21:13:08.031Z",
+  "updatedAt": "2026-08-18T21:13:11.412Z",
   "trips": [
     {
       "id": "0d7be459-4c88-4e13-878e-ec787dfb3374",
@@ -55,19 +55,6 @@
       ],
       "createdAt": "2026-08-18T13:06:10.049Z",
       "modifiedAt": "2026-08-18T21:11:11.076Z",
-      "modifiedBy": "Ale"
-    },
-    {
-      "id": "02c49d5d-fd4f-4df6-8d6d-b8c1a5c74a7f",
-      "title": "Nuovo viaggio",
-      "start": "",
-      "end": "",
-      "notes": "",
-      "color": "#92724b",
-      "participants": [],
-      "segments": [],
-      "createdAt": "2026-08-18T13:14:15.338Z",
-      "modifiedAt": "2026-08-18T13:14:15.338Z",
       "modifiedBy": "Ale"
     },
     {
@@ -155,6 +142,11 @@
     {
       "id": "91739f81-a644-411c-8713-615a82af1cf7",
       "deletedAt": "2026-08-18T21:13:05.761Z",
+      "deletedBy": "Ale"
+    },
+    {
+      "id": "02c49d5d-fd4f-4df6-8d6d-b8c1a5c74a7f",
+      "deletedAt": "2026-08-18T21:13:09.152Z",
       "deletedBy": "Ale"
     }
   ],
