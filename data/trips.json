@@ -1,12 +1,12 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-18T21:27:13.957Z",
+  "updatedAt": "2026-08-18T21:27:16.874Z",
   "trips": [
     {
       "id": "4066becf-367e-4746-a386-b13411ab4a80",
       "title": "Nuovo viaggio",
       "start": "2026-08-07",
-      "end": "",
+      "end": "2026-08-15",
       "notes": "",
       "color": "#00A896",
       "participants": [
@@ -28831,7 +28831,7 @@
         }
       ],
       "createdAt": "2026-08-18T21:24:32.657Z",
-      "modifiedAt": "2026-08-18T21:27:11.323Z",
+      "modifiedAt": "2026-08-18T21:27:14.311Z",
       "modifiedBy": "Ale"
     },
     {
