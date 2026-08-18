@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-18T13:04:45.601Z",
+  "updatedAt": "2026-08-18T13:05:26.438Z",
   "trips": [
     {
       "id": "40f13198-5269-4c03-9999-6a918b7913fb",
@@ -8,13 +8,13 @@
       "start": "2023-12-19",
       "end": "2023-12-21",
       "notes": "",
-      "color": "#2f5d50",
+      "color": "#b2504e",
       "participants": [
         "Ale&Costi"
       ],
       "segments": [],
       "createdAt": "2026-08-18T13:04:10.246Z",
-      "modifiedAt": "2026-08-18T13:04:43.417Z",
+      "modifiedAt": "2026-08-18T13:05:24.205Z",
       "modifiedBy": "Costi"
     }
   ],
@@ -40,5 +40,5 @@
       "deletedBy": "Ale"
     }
   ],
-  "lastEditLabel": "modificati partecipanti"
+  "lastEditLabel": "cambiato colore"
 }
