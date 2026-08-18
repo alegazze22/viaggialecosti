@@ -1,7 +1,20 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-18T13:10:38.006Z",
+  "updatedAt": "2026-08-18T13:12:32.007Z",
   "trips": [
+    {
+      "id": "2512308a-2d86-4655-8f64-4ac512c4bb73",
+      "title": "Nuovo viaggio",
+      "start": "",
+      "end": "",
+      "notes": "",
+      "color": "#4e6b8a",
+      "participants": [],
+      "segments": [],
+      "createdAt": "2026-08-18T13:12:29.871Z",
+      "modifiedAt": "2026-08-18T13:12:29.872Z",
+      "modifiedBy": "Ale"
+    },
     {
       "id": "0d7be459-4c88-4e13-878e-ec787dfb3374",
       "title": "Madrid",
@@ -135,5 +148,5 @@
       "deletedBy": "Ale"
     }
   ],
-  "lastEditLabel": "aggiunta tratta Aereo"
+  "lastEditLabel": "nuovo viaggio"
 }
