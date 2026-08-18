@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-18T09:48:08.530Z",
+  "updatedAt": "2026-08-18T09:48:13.354Z",
   "trips": [
     {
       "id": "40d64837-42b6-41d6-bde3-f0f6f3373786",
@@ -12,9 +12,40 @@
       "participants": [
         "Ale&Costi"
       ],
-      "segments": [],
+      "segments": [
+        {
+          "id": "37f7d729-a076-4ec2-9b06-ee1824cf8f5b",
+          "mode": "train",
+          "waypoints": [
+            [
+              10.3091256,
+              43.5507317
+            ],
+            [
+              12.4829321,
+              41.8933203
+            ]
+          ],
+          "waypointNames": [
+            "Livorno",
+            "Roma"
+          ],
+          "coords": [
+            [
+              10.3091256,
+              43.5507317
+            ],
+            [
+              12.4829321,
+              41.8933203
+            ]
+          ],
+          "distanceKm": 255.9,
+          "routed": false
+        }
+      ],
       "createdAt": "2026-08-18T09:46:47.310Z",
-      "modifiedAt": "2026-08-18T09:48:06.340Z",
+      "modifiedAt": "2026-08-18T09:48:11.214Z",
       "modifiedBy": "Ale"
     }
   ],
@@ -25,5 +56,5 @@
       "deletedBy": "Ale"
     }
   ],
-  "lastEditLabel": "modificati partecipanti"
+  "lastEditLabel": "aggiunta tratta Treno"
 }
