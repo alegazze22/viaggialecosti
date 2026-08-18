@@ -1,18 +1,20 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-18T13:04:35.889Z",
+  "updatedAt": "2026-08-18T13:04:45.601Z",
   "trips": [
     {
       "id": "40f13198-5269-4c03-9999-6a918b7913fb",
       "title": "Praga",
       "start": "2023-12-19",
-      "end": "",
+      "end": "2023-12-21",
       "notes": "",
       "color": "#2f5d50",
-      "participants": [],
+      "participants": [
+        "Ale&Costi"
+      ],
       "segments": [],
       "createdAt": "2026-08-18T13:04:10.246Z",
-      "modifiedAt": "2026-08-18T13:04:33.447Z",
+      "modifiedAt": "2026-08-18T13:04:43.417Z",
       "modifiedBy": "Costi"
     }
   ],
@@ -38,5 +40,5 @@
       "deletedBy": "Ale"
     }
   ],
-  "lastEditLabel": "modificato viaggio"
+  "lastEditLabel": "modificati partecipanti"
 }
