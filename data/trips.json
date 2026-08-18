@@ -1,17 +1,17 @@
 {
   "version": 2,
-  "updatedAt": "2026-08-18T09:14:26.683Z",
+  "updatedAt": "2026-08-18T09:14:33.207Z",
   "trips": [
     {
       "id": "35bf0941-571c-4db1-8cec-41be9b724b31",
       "title": "Nuovo viaggio",
-      "start": "",
+      "start": "2026-08-18",
       "end": "",
       "notes": "",
       "color": "#2f5d50",
       "segments": [],
       "createdAt": "2026-08-18T09:14:24.573Z",
-      "modifiedAt": "2026-08-18T09:14:24.574Z",
+      "modifiedAt": "2026-08-18T09:14:31.004Z",
       "modifiedBy": "Ale"
     }
   ],
@@ -22,5 +22,5 @@
       "deletedBy": "Ale"
     }
   ],
-  "lastEditLabel": "nuovo viaggio"
+  "lastEditLabel": "modificato viaggio"
 }
