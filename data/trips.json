@@ -1,7 +1,19 @@
 {
   "version": 2,
-  "updatedAt": "2026-08-18T09:28:34.200Z",
+  "updatedAt": "2026-08-18T09:28:56.110Z",
   "trips": [
+    {
+      "id": "1bdafc88-e8a7-46a4-b4d2-dd9fef3ccee7",
+      "title": "Nuovo viaggio",
+      "start": "",
+      "end": "",
+      "notes": "",
+      "color": "#bd6b4a",
+      "segments": [],
+      "createdAt": "2026-08-18T09:28:53.385Z",
+      "modifiedAt": "2026-08-18T09:28:53.385Z",
+      "modifiedBy": "Ale"
+    },
     {
       "id": "ec1ffa12-e674-4fe0-9ee6-309ecbe508ec",
       "title": "Nuovo viaggio",
@@ -27557,5 +27569,5 @@
     }
   ],
   "deletedTrips": [],
-  "lastEditLabel": "aggiunta tratta Auto"
+  "lastEditLabel": "nuovo viaggio"
 }
