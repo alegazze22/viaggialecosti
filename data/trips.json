@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-18T21:24:38.232Z",
+  "updatedAt": "2026-08-18T21:25:21.648Z",
   "trips": [
     {
       "id": "4066becf-367e-4746-a386-b13411ab4a80",
@@ -10,9 +10,40 @@
       "notes": "",
       "color": "#00A896",
       "participants": [],
-      "segments": [],
+      "segments": [
+        {
+          "id": "0599c7ba-94b1-4a2c-9130-896b3a937353",
+          "mode": "train",
+          "waypoints": [
+            [
+              10.3091256,
+              43.5507317
+            ],
+            [
+              8.9338624,
+              44.40726
+            ]
+          ],
+          "waypointNames": [
+            "Livorno",
+            "Genova"
+          ],
+          "coords": [
+            [
+              10.3091256,
+              43.5507317
+            ],
+            [
+              8.9338624,
+              44.40726
+            ]
+          ],
+          "distanceKm": 145.5,
+          "routed": false
+        }
+      ],
       "createdAt": "2026-08-18T21:24:32.657Z",
-      "modifiedAt": "2026-08-18T21:24:36.069Z",
+      "modifiedAt": "2026-08-18T21:25:19.261Z",
       "modifiedBy": "Ale"
     },
     {
@@ -163,5 +194,5 @@
       "deletedBy": "Ale"
     }
   ],
-  "lastEditLabel": "cambiato colore"
+  "lastEditLabel": "aggiunta tratta Treno"
 }
