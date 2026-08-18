@@ -1,33 +1,7 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-18T13:14:17.484Z",
+  "updatedAt": "2026-08-18T13:22:09.430Z",
   "trips": [
-    {
-      "id": "02c49d5d-fd4f-4df6-8d6d-b8c1a5c74a7f",
-      "title": "Nuovo viaggio",
-      "start": "",
-      "end": "",
-      "notes": "",
-      "color": "#92724b",
-      "participants": [],
-      "segments": [],
-      "createdAt": "2026-08-18T13:14:15.338Z",
-      "modifiedAt": "2026-08-18T13:14:15.338Z",
-      "modifiedBy": "Ale"
-    },
-    {
-      "id": "2512308a-2d86-4655-8f64-4ac512c4bb73",
-      "title": "Nuovo viaggio",
-      "start": "",
-      "end": "",
-      "notes": "",
-      "color": "#4e6b8a",
-      "participants": [],
-      "segments": [],
-      "createdAt": "2026-08-18T13:12:29.871Z",
-      "modifiedAt": "2026-08-18T13:12:29.872Z",
-      "modifiedBy": "Ale"
-    },
     {
       "id": "0d7be459-4c88-4e13-878e-ec787dfb3374",
       "title": "Madrid",
@@ -36,7 +10,9 @@
       "notes": "",
       "color": "#bd6b4a",
       "participants": [
-        "Ale&Costi"
+        "Ale&Costi",
+        "Ale",
+        "Costi"
       ],
       "segments": [
         {
@@ -80,7 +56,33 @@
         }
       ],
       "createdAt": "2026-08-18T13:06:10.049Z",
-      "modifiedAt": "2026-08-18T13:09:55.194Z",
+      "modifiedAt": "2026-08-18T13:22:06.590Z",
+      "modifiedBy": "Ale"
+    },
+    {
+      "id": "02c49d5d-fd4f-4df6-8d6d-b8c1a5c74a7f",
+      "title": "Nuovo viaggio",
+      "start": "",
+      "end": "",
+      "notes": "",
+      "color": "#92724b",
+      "participants": [],
+      "segments": [],
+      "createdAt": "2026-08-18T13:14:15.338Z",
+      "modifiedAt": "2026-08-18T13:14:15.338Z",
+      "modifiedBy": "Ale"
+    },
+    {
+      "id": "2512308a-2d86-4655-8f64-4ac512c4bb73",
+      "title": "Nuovo viaggio",
+      "start": "",
+      "end": "",
+      "notes": "",
+      "color": "#4e6b8a",
+      "participants": [],
+      "segments": [],
+      "createdAt": "2026-08-18T13:12:29.871Z",
+      "modifiedAt": "2026-08-18T13:12:29.872Z",
       "modifiedBy": "Ale"
     },
     {
@@ -161,5 +163,5 @@
       "deletedBy": "Ale"
     }
   ],
-  "lastEditLabel": "nuovo viaggio"
+  "lastEditLabel": "modificati partecipanti"
 }
