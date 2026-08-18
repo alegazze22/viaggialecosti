@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-18T13:06:32.571Z",
+  "updatedAt": "2026-08-18T13:09:57.328Z",
   "trips": [
     {
       "id": "0d7be459-4c88-4e13-878e-ec787dfb3374",
@@ -12,10 +12,50 @@
       "participants": [
         "Ale&Costi"
       ],
-      "segments": [],
+      "segments": [
+        {
+          "id": "dbe47d62-70fd-4975-a8e4-0da3b45af02d",
+          "mode": "plane",
+          "waypoints": [
+            [
+              10.395527,
+              43.6847937
+            ],
+            [
+              -3.703507,
+              40.416782
+            ],
+            [
+              10.395527,
+              43.6847937
+            ]
+          ],
+          "waypointNames": [
+            "Aeroporto internazionale Galileo Galilei",
+            "Madrid",
+            "Aeroporto internazionale Galileo Galilei"
+          ],
+          "coords": [
+            [
+              10.395527,
+              43.6847937
+            ],
+            [
+              -3.703507,
+              40.416782
+            ],
+            [
+              10.395527,
+              43.6847937
+            ]
+          ],
+          "distanceKm": 2435.5,
+          "routed": false
+        }
+      ],
       "createdAt": "2026-08-18T13:06:10.049Z",
-      "modifiedAt": "2026-08-18T13:06:30.377Z",
-      "modifiedBy": "Costi"
+      "modifiedAt": "2026-08-18T13:09:55.194Z",
+      "modifiedBy": "Ale"
     },
     {
       "id": "40f13198-5269-4c03-9999-6a918b7913fb",
@@ -55,5 +95,5 @@
       "deletedBy": "Ale"
     }
   ],
-  "lastEditLabel": "modificato viaggio"
+  "lastEditLabel": "aggiunta tratta Aereo"
 }
