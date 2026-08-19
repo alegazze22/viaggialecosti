@@ -1,6 +1,6 @@
 {
-  "version": 3,
-  "updatedAt": "2026-08-19T20:51:25.242Z",
+  "version": 4,
+  "updatedAt": "2026-08-19T20:56:39.698Z",
   "trips": [
     {
       "id": "df74a303-a7a3-44f4-b69f-fefaa702472d",
@@ -13,7 +13,8 @@
       "segments": [],
       "createdAt": "2026-08-19T20:51:22.416Z",
       "modifiedAt": "2026-08-19T20:51:22.416Z",
-      "modifiedBy": "Ale"
+      "modifiedBy": "Ale",
+      "googleMapsUrl": ""
     },
     {
       "id": "4066becf-367e-4746-a386-b13411ab4a80",
@@ -366,7 +367,8 @@
       ],
       "createdAt": "2026-08-18T21:24:32.657Z",
       "modifiedAt": "2026-08-19T20:31:42.645Z",
-      "modifiedBy": "Ale"
+      "modifiedBy": "Ale",
+      "googleMapsUrl": ""
     },
     {
       "id": "0d7be459-4c88-4e13-878e-ec787dfb3374",
@@ -421,7 +423,8 @@
       ],
       "createdAt": "2026-08-18T13:06:10.049Z",
       "modifiedAt": "2026-08-18T21:11:11.076Z",
-      "modifiedBy": "Ale"
+      "modifiedBy": "Ale",
+      "googleMapsUrl": ""
     },
     {
       "id": "40f13198-5269-4c03-9999-6a918b7913fb",
@@ -476,7 +479,8 @@
       ],
       "createdAt": "2026-08-18T13:04:10.246Z",
       "modifiedAt": "2026-08-18T21:11:07.542Z",
-      "modifiedBy": "Ale"
+      "modifiedBy": "Ale",
+      "googleMapsUrl": ""
     }
   ],
   "deletedTrips": [
@@ -516,5 +520,33 @@
       "deletedBy": "Ale"
     }
   ],
-  "lastEditLabel": "nuovo viaggio"
+  "lastEditLabel": "salvato viaggio da fare",
+  "plannedTrips": [
+    {
+      "id": "9f3e90bb-5ef3-470f-8743-44de8685d980",
+      "title": "Cile",
+      "status": "idea",
+      "color": "#FFF200",
+      "destinations": [
+        {
+          "name": "Temuco",
+          "lat": -38.7358908,
+          "lon": -72.590538
+        }
+      ],
+      "start": "",
+      "end": "",
+      "mode": "plane",
+      "participants": [
+        "Ale&Costi"
+      ],
+      "googleMapsUrl": "",
+      "notes": "",
+      "links": [],
+      "checklist": [],
+      "createdAt": "2026-08-19T20:55:55.573Z",
+      "modifiedAt": "2026-08-19T20:56:37.023Z",
+      "modifiedBy": "Ale"
+    }
+  ]
 }
