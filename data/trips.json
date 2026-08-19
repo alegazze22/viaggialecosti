@@ -1,7 +1,20 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-19T20:31:44.926Z",
+  "updatedAt": "2026-08-19T20:51:25.242Z",
   "trips": [
+    {
+      "id": "df74a303-a7a3-44f4-b69f-fefaa702472d",
+      "title": "Nuovo viaggio",
+      "start": "",
+      "end": "",
+      "notes": "",
+      "color": "#FFD60A",
+      "participants": [],
+      "segments": [],
+      "createdAt": "2026-08-19T20:51:22.416Z",
+      "modifiedAt": "2026-08-19T20:51:22.416Z",
+      "modifiedBy": "Ale"
+    },
     {
       "id": "4066becf-367e-4746-a386-b13411ab4a80",
       "title": "Asturie",
@@ -503,5 +516,5 @@
       "deletedBy": "Ale"
     }
   ],
-  "lastEditLabel": "cambiato colore"
+  "lastEditLabel": "nuovo viaggio"
 }
