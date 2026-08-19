@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-08-19T20:31:39.904Z",
+  "updatedAt": "2026-08-19T20:31:44.926Z",
   "trips": [
     {
       "id": "4066becf-367e-4746-a386-b13411ab4a80",
@@ -8,7 +8,7 @@
       "start": "2026-08-07",
       "end": "2026-08-15",
       "notes": "",
-      "color": "#FFF200",
+      "color": "#FFD000",
       "participants": [
         "Ale&Costi"
       ],
@@ -352,7 +352,7 @@
         }
       ],
       "createdAt": "2026-08-18T21:24:32.657Z",
-      "modifiedAt": "2026-08-19T20:31:35.261Z",
+      "modifiedAt": "2026-08-19T20:31:42.645Z",
       "modifiedBy": "Ale"
     },
     {
