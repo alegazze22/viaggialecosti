@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updatedAt": "2026-08-19T20:58:43.464Z",
+  "updatedAt": "2026-08-19T21:02:13.623Z",
   "trips": [
     {
       "id": "4066becf-367e-4746-a386-b13411ab4a80",
@@ -511,8 +511,34 @@
       "deletedBy": "Ale"
     }
   ],
-  "lastEditLabel": "eliminato viaggio",
+  "lastEditLabel": "salvato viaggio da fare",
   "plannedTrips": [
+    {
+      "id": "cc3946b4-d32d-42e0-b43a-53d1180fd9c0",
+      "title": "Budapest",
+      "status": "booked",
+      "color": "#00BFA6",
+      "destinations": [
+        {
+          "name": "Budapest",
+          "lat": 47.4978789,
+          "lon": 19.0402383
+        }
+      ],
+      "start": "2026-12-21",
+      "end": "2026-12-23",
+      "mode": "plane",
+      "participants": [
+        "Ale&Costi"
+      ],
+      "googleMapsUrl": "",
+      "notes": "",
+      "links": [],
+      "checklist": [],
+      "createdAt": "2026-08-19T21:01:00.620Z",
+      "modifiedAt": "2026-08-19T21:02:10.336Z",
+      "modifiedBy": "Costi"
+    },
     {
       "id": "9f3e90bb-5ef3-470f-8743-44de8685d980",
       "title": "Cile",
