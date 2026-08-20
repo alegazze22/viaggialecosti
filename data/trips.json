@@ -1,11 +1,11 @@
 {
   "version": 4,
-  "updatedAt": "2026-08-20T17:22:19.864Z",
+  "updatedAt": "2026-08-20T17:25:23.029Z",
   "trips": [
     {
       "id": "c9d62274-7076-484c-8e58-4643456e41e5",
       "title": "Bucarest",
-      "start": "",
+      "start": "2023-10-04",
       "end": "",
       "notes": "",
       "googleMapsUrl": "",
@@ -13,7 +13,7 @@
       "participants": [],
       "segments": [],
       "createdAt": "2026-08-20T17:22:14.523Z",
-      "modifiedAt": "2026-08-20T17:22:19.960Z",
+      "modifiedAt": "2026-08-20T17:25:22.859Z",
       "modifiedBy": "Costi"
     },
     {
@@ -2936,7 +2936,7 @@
       "deletedBy": "Ale"
     }
   ],
-  "lastEditLabel": "cambiato colore",
+  "lastEditLabel": "modificato viaggio",
   "plannedTrips": [
     {
       "id": "cc3946b4-d32d-42e0-b43a-53d1180fd9c0",
