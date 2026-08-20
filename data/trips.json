@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updatedAt": "2026-08-20T17:13:51.691Z",
+  "updatedAt": "2026-08-20T17:14:15.863Z",
   "trips": [
     {
       "id": "934be5d2-5a94-4bdf-b360-062725e12292",
@@ -13,9 +13,40 @@
       "participants": [
         "Ale&Costi"
       ],
-      "segments": [],
+      "segments": [
+        {
+          "id": "27c29194-16cb-4390-bf15-9670972cbec8",
+          "mode": "plane",
+          "waypoints": [
+            [
+              10.395527,
+              43.6847937
+            ],
+            [
+              25.180972,
+              35.337058
+            ]
+          ],
+          "waypointNames": [
+            "Aeroporto internazionale Galileo Galilei",
+            "Κρατικός Αερολιμένας Ηρακλείου Νίκος Καζαντζάκης"
+          ],
+          "coords": [
+            [
+              10.395527,
+              43.6847937
+            ],
+            [
+              25.180972,
+              35.337058
+            ]
+          ],
+          "distanceKm": 1567.9,
+          "routed": false
+        }
+      ],
       "createdAt": "2026-08-20T17:13:16.140Z",
-      "modifiedAt": "2026-08-20T17:13:51.615Z",
+      "modifiedAt": "2026-08-20T17:14:15.481Z",
       "modifiedBy": "Costi"
     },
     {
@@ -1561,7 +1592,7 @@
       "deletedBy": "Ale"
     }
   ],
-  "lastEditLabel": "modificati partecipanti",
+  "lastEditLabel": "aggiunta tratta Aereo",
   "plannedTrips": [
     {
       "id": "cc3946b4-d32d-42e0-b43a-53d1180fd9c0",
