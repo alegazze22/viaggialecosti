@@ -1,11 +1,11 @@
 {
   "version": 4,
-  "updatedAt": "2026-08-20T17:41:14.368Z",
+  "updatedAt": "2026-08-20T17:41:37.474Z",
   "trips": [
     {
       "id": "5ea6fb27-7253-4d01-8842-7b08ad5d4eee",
       "title": "New Yorj",
-      "start": "",
+      "start": "2024-09-18",
       "end": "",
       "notes": "",
       "googleMapsUrl": "",
@@ -13,7 +13,7 @@
       "participants": [],
       "segments": [],
       "createdAt": "2026-08-20T17:41:07.907Z",
-      "modifiedAt": "2026-08-20T17:41:14.336Z",
+      "modifiedAt": "2026-08-20T17:41:37.134Z",
       "modifiedBy": "Costi"
     },
     {
@@ -3953,7 +3953,7 @@
       "deletedBy": "Ale"
     }
   ],
-  "lastEditLabel": "cambiato colore",
+  "lastEditLabel": "modificato viaggio",
   "plannedTrips": [
     {
       "id": "cc3946b4-d32d-42e0-b43a-53d1180fd9c0",
