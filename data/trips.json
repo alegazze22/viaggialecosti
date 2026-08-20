@@ -1,7 +1,21 @@
 {
   "version": 4,
-  "updatedAt": "2026-08-19T21:02:13.623Z",
+  "updatedAt": "2026-08-20T17:06:38.565Z",
   "trips": [
+    {
+      "id": "e58a5696-e328-44fc-973d-9c278808d2d2",
+      "title": "Nuovo viaggio",
+      "start": "",
+      "end": "",
+      "notes": "",
+      "googleMapsUrl": "",
+      "color": "#FFD60A",
+      "participants": [],
+      "segments": [],
+      "createdAt": "2026-08-20T17:06:38.643Z",
+      "modifiedAt": "2026-08-20T17:06:38.643Z",
+      "modifiedBy": "Costi"
+    },
     {
       "id": "4066becf-367e-4746-a386-b13411ab4a80",
       "title": "Asturie",
@@ -511,7 +525,7 @@
       "deletedBy": "Ale"
     }
   ],
-  "lastEditLabel": "salvato viaggio da fare",
+  "lastEditLabel": "nuovo viaggio",
   "plannedTrips": [
     {
       "id": "cc3946b4-d32d-42e0-b43a-53d1180fd9c0",
