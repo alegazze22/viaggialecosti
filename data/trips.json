@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updatedAt": "2026-08-20T17:43:00.350Z",
+  "updatedAt": "2026-08-20T17:43:47.015Z",
   "trips": [
     {
       "id": "5ea6fb27-7253-4d01-8842-7b08ad5d4eee",
@@ -1368,9 +1368,40 @@
       "participants": [
         "Ale&Costi"
       ],
-      "segments": [],
+      "segments": [
+        {
+          "id": "4b4ea5b1-fc2d-4b53-8229-9add9351669d",
+          "mode": "ferry",
+          "waypoints": [
+            [
+              10.3091256,
+              43.5507317
+            ],
+            [
+              9.4497707,
+              42.6974612
+            ]
+          ],
+          "waypointNames": [
+            "Livorno",
+            "Bastia"
+          ],
+          "coords": [
+            [
+              10.3091256,
+              43.5507317
+            ],
+            [
+              9.4497707,
+              42.6974612
+            ]
+          ],
+          "distanceKm": 117.8,
+          "routed": false
+        }
+      ],
       "createdAt": "2026-08-20T17:28:58.828Z",
-      "modifiedAt": "2026-08-20T17:43:00.066Z",
+      "modifiedAt": "2026-08-20T17:43:46.308Z",
       "modifiedBy": "Costi"
     },
     {
@@ -3997,7 +4028,7 @@
       "deletedBy": "Ale"
     }
   ],
-  "lastEditLabel": "modificati partecipanti",
+  "lastEditLabel": "aggiunta tratta Traghetto",
   "plannedTrips": [
     {
       "id": "cc3946b4-d32d-42e0-b43a-53d1180fd9c0",
