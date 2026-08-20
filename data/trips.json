@@ -1,11 +1,11 @@
 {
   "version": 4,
-  "updatedAt": "2026-08-20T17:11:09.913Z",
+  "updatedAt": "2026-08-20T17:11:14.850Z",
   "trips": [
     {
       "id": "56cd5313-4a95-4c66-84cc-d8a088309cad",
       "title": "Alto Lazio ",
-      "start": "",
+      "start": "2023-04-10",
       "end": "",
       "notes": "",
       "googleMapsUrl": "",
@@ -13,7 +13,7 @@
       "participants": [],
       "segments": [],
       "createdAt": "2026-08-20T17:11:05.725Z",
-      "modifiedAt": "2026-08-20T17:11:09.936Z",
+      "modifiedAt": "2026-08-20T17:11:14.787Z",
       "modifiedBy": "Costi"
     },
     {
@@ -1028,7 +1028,7 @@
       "deletedBy": "Ale"
     }
   ],
-  "lastEditLabel": "cambiato colore",
+  "lastEditLabel": "modificato viaggio",
   "plannedTrips": [
     {
       "id": "cc3946b4-d32d-42e0-b43a-53d1180fd9c0",
