@@ -1,19 +1,19 @@
 {
   "version": 4,
-  "updatedAt": "2026-08-20T17:37:25.679Z",
+  "updatedAt": "2026-08-20T17:37:30.820Z",
   "trips": [
     {
       "id": "234cb4aa-4283-4ae1-92cd-66e1667058db",
-      "title": "Matera",
+      "title": "Matera (",
       "start": "",
       "end": "",
       "notes": "",
       "googleMapsUrl": "",
-      "color": "#FF8500",
+      "color": "#00D9C0",
       "participants": [],
       "segments": [],
       "createdAt": "2026-08-20T17:37:22.889Z",
-      "modifiedAt": "2026-08-20T17:37:25.671Z",
+      "modifiedAt": "2026-08-20T17:37:30.878Z",
       "modifiedBy": "Costi"
     },
     {
