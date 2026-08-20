@@ -1,19 +1,21 @@
 {
   "version": 4,
-  "updatedAt": "2026-08-20T17:37:56.023Z",
+  "updatedAt": "2026-08-20T17:38:00.851Z",
   "trips": [
     {
       "id": "234cb4aa-4283-4ae1-92cd-66e1667058db",
       "title": "Matera (chirurgica)",
       "start": "2024-03-22",
-      "end": "",
+      "end": "2024-03-25",
       "notes": "",
       "googleMapsUrl": "",
       "color": "#00D9C0",
-      "participants": [],
+      "participants": [
+        "Ale&Costi"
+      ],
       "segments": [],
       "createdAt": "2026-08-20T17:37:22.889Z",
-      "modifiedAt": "2026-08-20T17:37:56.093Z",
+      "modifiedAt": "2026-08-20T17:38:00.687Z",
       "modifiedBy": "Costi"
     },
     {
@@ -3671,7 +3673,7 @@
       "deletedBy": "Ale"
     }
   ],
-  "lastEditLabel": "modificato viaggio",
+  "lastEditLabel": "modificati partecipanti",
   "plannedTrips": [
     {
       "id": "cc3946b4-d32d-42e0-b43a-53d1180fd9c0",
