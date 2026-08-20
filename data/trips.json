@@ -1,7 +1,21 @@
 {
   "version": 4,
-  "updatedAt": "2026-08-20T17:46:56.835Z",
+  "updatedAt": "2026-08-20T17:47:11.745Z",
   "trips": [
+    {
+      "id": "51e95f45-fae8-4e71-9215-e554323f8c5d",
+      "title": "Tenerife",
+      "start": "",
+      "end": "",
+      "notes": "",
+      "googleMapsUrl": "",
+      "color": "#FF6D00",
+      "participants": [],
+      "segments": [],
+      "createdAt": "2026-08-20T17:47:09.161Z",
+      "modifiedAt": "2026-08-20T17:47:11.674Z",
+      "modifiedBy": "Costi"
+    },
     {
       "id": "5ea6fb27-7253-4d01-8842-7b08ad5d4eee",
       "title": "New York",
@@ -4028,7 +4042,7 @@
       "deletedBy": "Ale"
     }
   ],
-  "lastEditLabel": "cambiato colore",
+  "lastEditLabel": "modificato viaggio",
   "plannedTrips": [
     {
       "id": "cc3946b4-d32d-42e0-b43a-53d1180fd9c0",
