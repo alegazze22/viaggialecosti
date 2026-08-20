@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updatedAt": "2026-08-20T17:15:57.693Z",
+  "updatedAt": "2026-08-20T17:16:59.232Z",
   "trips": [
     {
       "id": "934be5d2-5a94-4bdf-b360-062725e12292",
@@ -600,10 +600,40 @@
           ],
           "distanceKm": 1058.2,
           "routed": false
+        },
+        {
+          "id": "b63f3325-47f5-4493-a786-641f04253989",
+          "mode": "train",
+          "waypoints": [
+            [
+              14.2845457,
+              40.8839923
+            ],
+            [
+              10.6797912,
+              43.4714722
+            ]
+          ],
+          "waypointNames": [
+            "Aeroporto di Napoli Capodichino",
+            "Pisa"
+          ],
+          "coords": [
+            [
+              14.2845457,
+              40.8839923
+            ],
+            [
+              10.6797912,
+              43.4714722
+            ]
+          ],
+          "distanceKm": 413.5,
+          "routed": false
         }
       ],
       "createdAt": "2026-08-20T17:13:16.140Z",
-      "modifiedAt": "2026-08-20T17:15:57.415Z",
+      "modifiedAt": "2026-08-20T17:16:59.274Z",
       "modifiedBy": "Costi"
     },
     {
@@ -2149,7 +2179,7 @@
       "deletedBy": "Ale"
     }
   ],
-  "lastEditLabel": "aggiunta tratta Aereo",
+  "lastEditLabel": "aggiunta tratta Treno",
   "plannedTrips": [
     {
       "id": "cc3946b4-d32d-42e0-b43a-53d1180fd9c0",
