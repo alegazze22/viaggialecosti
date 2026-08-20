@@ -1,19 +1,21 @@
 {
   "version": 4,
-  "updatedAt": "2026-08-20T17:13:46.453Z",
+  "updatedAt": "2026-08-20T17:13:51.691Z",
   "trips": [
     {
       "id": "934be5d2-5a94-4bdf-b360-062725e12292",
       "title": "Creta",
       "start": "2023-07-16",
-      "end": "",
+      "end": "2023-07-21",
       "notes": "",
       "googleMapsUrl": "",
       "color": "#FF7900",
-      "participants": [],
+      "participants": [
+        "Ale&Costi"
+      ],
       "segments": [],
       "createdAt": "2026-08-20T17:13:16.140Z",
-      "modifiedAt": "2026-08-20T17:13:46.395Z",
+      "modifiedAt": "2026-08-20T17:13:51.615Z",
       "modifiedBy": "Costi"
     },
     {
@@ -1559,7 +1561,7 @@
       "deletedBy": "Ale"
     }
   ],
-  "lastEditLabel": "modificato viaggio",
+  "lastEditLabel": "modificati partecipanti",
   "plannedTrips": [
     {
       "id": "cc3946b4-d32d-42e0-b43a-53d1180fd9c0",
