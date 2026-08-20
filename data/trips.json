@@ -1,11 +1,11 @@
 {
   "version": 4,
-  "updatedAt": "2026-08-20T17:47:11.745Z",
+  "updatedAt": "2026-08-20T17:47:34.901Z",
   "trips": [
     {
       "id": "51e95f45-fae8-4e71-9215-e554323f8c5d",
       "title": "Tenerife",
-      "start": "",
+      "start": "2024-04-19",
       "end": "",
       "notes": "",
       "googleMapsUrl": "",
@@ -13,7 +13,7 @@
       "participants": [],
       "segments": [],
       "createdAt": "2026-08-20T17:47:09.161Z",
-      "modifiedAt": "2026-08-20T17:47:11.674Z",
+      "modifiedAt": "2026-08-20T17:47:34.791Z",
       "modifiedBy": "Costi"
     },
     {
