@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updatedAt": "2026-08-20T17:25:30.750Z",
+  "updatedAt": "2026-08-20T17:25:38.185Z",
   "trips": [
     {
       "id": "c9d62274-7076-484c-8e58-4643456e41e5",
@@ -10,10 +10,12 @@
       "notes": "",
       "googleMapsUrl": "",
       "color": "#00D4FF",
-      "participants": [],
+      "participants": [
+        "Ale&Costi"
+      ],
       "segments": [],
       "createdAt": "2026-08-20T17:22:14.523Z",
-      "modifiedAt": "2026-08-20T17:25:30.660Z",
+      "modifiedAt": "2026-08-20T17:25:38.089Z",
       "modifiedBy": "Costi"
     },
     {
@@ -2936,7 +2938,7 @@
       "deletedBy": "Ale"
     }
   ],
-  "lastEditLabel": "modificato viaggio",
+  "lastEditLabel": "modificati partecipanti",
   "plannedTrips": [
     {
       "id": "cc3946b4-d32d-42e0-b43a-53d1180fd9c0",
