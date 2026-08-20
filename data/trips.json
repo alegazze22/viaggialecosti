@@ -1,7 +1,21 @@
 {
   "version": 4,
-  "updatedAt": "2026-08-20T17:28:59.277Z",
+  "updatedAt": "2026-08-20T17:29:07.284Z",
   "trips": [
+    {
+      "id": "f28c051d-3cff-4010-88d6-cbea7d5d50c2",
+      "title": "Svizzera",
+      "start": "",
+      "end": "",
+      "notes": "",
+      "googleMapsUrl": "",
+      "color": "#FFE066",
+      "participants": [],
+      "segments": [],
+      "createdAt": "2026-08-20T17:29:04.140Z",
+      "modifiedAt": "2026-08-20T17:29:07.307Z",
+      "modifiedBy": "Costi"
+    },
     {
       "id": "71f667de-b456-4287-baa6-6c8d6ff18b15",
       "title": "Nuovo viaggio",
@@ -3048,7 +3062,7 @@
       "deletedBy": "Ale"
     }
   ],
-  "lastEditLabel": "nuovo viaggio",
+  "lastEditLabel": "modificato viaggio",
   "plannedTrips": [
     {
       "id": "cc3946b4-d32d-42e0-b43a-53d1180fd9c0",
