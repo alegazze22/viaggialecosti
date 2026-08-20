@@ -1,19 +1,19 @@
 {
   "version": 4,
-  "updatedAt": "2026-08-20T17:31:57.377Z",
+  "updatedAt": "2026-08-20T17:32:01.189Z",
   "trips": [
     {
       "id": "5d8d07bc-1ade-4260-bf58-bfa5ba13e97f",
       "title": "Nuovo viaggio",
       "start": "2024-02-24",
-      "end": "",
+      "end": "2024-02-25",
       "notes": "",
       "googleMapsUrl": "",
       "color": "#FF9F00",
       "participants": [],
       "segments": [],
       "createdAt": "2026-08-20T17:31:44.929Z",
-      "modifiedAt": "2026-08-20T17:31:57.295Z",
+      "modifiedAt": "2026-08-20T17:32:00.760Z",
       "modifiedBy": "Costi"
     },
     {
