@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updatedAt": "2026-08-20T17:41:43.327Z",
+  "updatedAt": "2026-08-20T17:42:05.886Z",
   "trips": [
     {
       "id": "5ea6fb27-7253-4d01-8842-7b08ad5d4eee",
@@ -11,9 +11,49 @@
       "googleMapsUrl": "",
       "color": "#FFEA00",
       "participants": [],
-      "segments": [],
+      "segments": [
+        {
+          "id": "9d8603e7-5534-4f3d-9995-08bc91f4b902",
+          "mode": "plane",
+          "waypoints": [
+            [
+              12.2264848,
+              41.8153911
+            ],
+            [
+              -73.7793734,
+              40.6429479
+            ],
+            [
+              12.2264848,
+              41.8153911
+            ]
+          ],
+          "waypointNames": [
+            "Aeroporto di Roma-Fiumicino",
+            "John F. Kennedy International Airport",
+            "Aeroporto di Roma-Fiumicino"
+          ],
+          "coords": [
+            [
+              12.2264848,
+              41.8153911
+            ],
+            [
+              -73.7793734,
+              40.6429479
+            ],
+            [
+              12.2264848,
+              41.8153911
+            ]
+          ],
+          "distanceKm": 13727.6,
+          "routed": false
+        }
+      ],
       "createdAt": "2026-08-20T17:41:07.907Z",
-      "modifiedAt": "2026-08-20T17:41:43.178Z",
+      "modifiedAt": "2026-08-20T17:42:05.911Z",
       "modifiedBy": "Costi"
     },
     {
@@ -3953,7 +3993,7 @@
       "deletedBy": "Ale"
     }
   ],
-  "lastEditLabel": "modificato viaggio",
+  "lastEditLabel": "aggiunta tratta Aereo",
   "plannedTrips": [
     {
       "id": "cc3946b4-d32d-42e0-b43a-53d1180fd9c0",
