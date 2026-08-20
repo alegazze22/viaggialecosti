@@ -1,19 +1,21 @@
 {
   "version": 4,
-  "updatedAt": "2026-08-20T17:19:45.357Z",
+  "updatedAt": "2026-08-20T17:19:48.884Z",
   "trips": [
     {
       "id": "bbc35e33-8701-4b35-8f63-471dfacf8e12",
       "title": "Lago di Como (al contrario)",
       "start": "2023-08-31",
-      "end": "",
+      "end": "2023-09-03",
       "notes": "",
       "googleMapsUrl": "",
       "color": "#FF006E",
-      "participants": [],
+      "participants": [
+        "Ale&Costi"
+      ],
       "segments": [],
       "createdAt": "2026-08-20T17:18:55.085Z",
-      "modifiedAt": "2026-08-20T17:19:44.981Z",
+      "modifiedAt": "2026-08-20T17:19:48.856Z",
       "modifiedBy": "Costi"
     },
     {
@@ -2193,7 +2195,7 @@
       "deletedBy": "Ale"
     }
   ],
-  "lastEditLabel": "modificato viaggio",
+  "lastEditLabel": "modificati partecipanti",
   "plannedTrips": [
     {
       "id": "cc3946b4-d32d-42e0-b43a-53d1180fd9c0",
