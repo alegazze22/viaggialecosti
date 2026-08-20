@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updatedAt": "2026-08-20T17:26:02.975Z",
+  "updatedAt": "2026-08-20T17:26:21.825Z",
   "trips": [
     {
       "id": "c9d62274-7076-484c-8e58-4643456e41e5",
@@ -43,10 +43,49 @@
           ],
           "distanceKm": 1161.9,
           "routed": false
+        },
+        {
+          "id": "56d0153b-cbda-4101-9220-f0cc24e63776",
+          "mode": "plane",
+          "waypoints": [
+            [
+              26.0902283,
+              44.5002921
+            ],
+            [
+              26.0902283,
+              44.5002921
+            ],
+            [
+              11.288447,
+              44.5344305
+            ]
+          ],
+          "waypointNames": [
+            "Aeroportul Internațional București-Băneasa „Aurel Vlaicu”",
+            "Aeroportul Internațional București-Băneasa „Aurel Vlaicu”",
+            "Aeroporto di Bologna \"Guglielmo Marconi\""
+          ],
+          "coords": [
+            [
+              26.0902283,
+              44.5002921
+            ],
+            [
+              26.0902283,
+              44.5002921
+            ],
+            [
+              11.288447,
+              44.5344305
+            ]
+          ],
+          "distanceKm": 1172,
+          "routed": false
         }
       ],
       "createdAt": "2026-08-20T17:22:14.523Z",
-      "modifiedAt": "2026-08-20T17:26:03.082Z",
+      "modifiedAt": "2026-08-20T17:26:21.940Z",
       "modifiedBy": "Costi"
     },
     {
