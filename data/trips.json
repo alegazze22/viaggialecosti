@@ -1,11 +1,11 @@
 {
   "version": 4,
-  "updatedAt": "2026-08-20T17:13:26.687Z",
+  "updatedAt": "2026-08-20T17:13:46.453Z",
   "trips": [
     {
       "id": "934be5d2-5a94-4bdf-b360-062725e12292",
       "title": "Creta",
-      "start": "2023-07-17",
+      "start": "2023-07-16",
       "end": "",
       "notes": "",
       "googleMapsUrl": "",
@@ -13,7 +13,7 @@
       "participants": [],
       "segments": [],
       "createdAt": "2026-08-20T17:13:16.140Z",
-      "modifiedAt": "2026-08-20T17:13:26.672Z",
+      "modifiedAt": "2026-08-20T17:13:46.395Z",
       "modifiedBy": "Costi"
     },
     {
