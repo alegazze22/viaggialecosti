@@ -1,10 +1,10 @@
 {
   "version": 4,
-  "updatedAt": "2026-08-20T17:52:58.811Z",
+  "updatedAt": "2026-08-20T17:53:03.140Z",
   "trips": [
     {
       "id": "d8c3f844-0de3-43fc-af93-d071f2c6bafc",
-      "title": "Nuovo viaggio",
+      "title": "Francoforte",
       "start": "",
       "end": "",
       "notes": "",
@@ -13,7 +13,7 @@
       "participants": [],
       "segments": [],
       "createdAt": "2026-08-20T17:52:58.511Z",
-      "modifiedAt": "2026-08-20T17:52:58.511Z",
+      "modifiedAt": "2026-08-20T17:53:03.196Z",
       "modifiedBy": "Costi"
     },
     {
@@ -4145,7 +4145,7 @@
       "deletedBy": "Ale"
     }
   ],
-  "lastEditLabel": "nuovo viaggio",
+  "lastEditLabel": "modificato viaggio",
   "plannedTrips": [
     {
       "id": "cc3946b4-d32d-42e0-b43a-53d1180fd9c0",
