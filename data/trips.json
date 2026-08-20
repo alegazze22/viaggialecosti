@@ -1,19 +1,21 @@
 {
   "version": 4,
-  "updatedAt": "2026-08-20T17:29:55.233Z",
+  "updatedAt": "2026-08-20T17:30:01.303Z",
   "trips": [
     {
       "id": "f28c051d-3cff-4010-88d6-cbea7d5d50c2",
       "title": "Svizzera",
       "start": "2023-12-30",
-      "end": "",
+      "end": "2024-01-03",
       "notes": "",
       "googleMapsUrl": "",
       "color": "#C918FF",
-      "participants": [],
+      "participants": [
+        "Ale&Costi"
+      ],
       "segments": [],
       "createdAt": "2026-08-20T17:29:04.140Z",
-      "modifiedAt": "2026-08-20T17:29:54.765Z",
+      "modifiedAt": "2026-08-20T17:30:01.229Z",
       "modifiedBy": "Costi"
     },
     {
@@ -3062,7 +3064,7 @@
       "deletedBy": "Ale"
     }
   ],
-  "lastEditLabel": "modificato viaggio",
+  "lastEditLabel": "modificati partecipanti",
   "plannedTrips": [
     {
       "id": "cc3946b4-d32d-42e0-b43a-53d1180fd9c0",
