@@ -1,7 +1,21 @@
 {
   "version": 4,
-  "updatedAt": "2026-08-20T17:37:10.683Z",
+  "updatedAt": "2026-08-20T17:37:22.985Z",
   "trips": [
+    {
+      "id": "234cb4aa-4283-4ae1-92cd-66e1667058db",
+      "title": "Nuovo viaggio",
+      "start": "",
+      "end": "",
+      "notes": "",
+      "googleMapsUrl": "",
+      "color": "#FF8500",
+      "participants": [],
+      "segments": [],
+      "createdAt": "2026-08-20T17:37:22.889Z",
+      "modifiedAt": "2026-08-20T17:37:22.889Z",
+      "modifiedBy": "Costi"
+    },
     {
       "id": "5d8d07bc-1ade-4260-bf58-bfa5ba13e97f",
       "title": "Arezzo (tentativo)",
@@ -3657,7 +3671,7 @@
       "deletedBy": "Ale"
     }
   ],
-  "lastEditLabel": "aggiunta tratta Auto",
+  "lastEditLabel": "nuovo viaggio",
   "plannedTrips": [
     {
       "id": "cc3946b4-d32d-42e0-b43a-53d1180fd9c0",
