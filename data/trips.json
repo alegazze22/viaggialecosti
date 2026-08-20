@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updatedAt": "2026-08-20T17:25:38.185Z",
+  "updatedAt": "2026-08-20T17:26:02.975Z",
   "trips": [
     {
       "id": "c9d62274-7076-484c-8e58-4643456e41e5",
@@ -13,9 +13,40 @@
       "participants": [
         "Ale&Costi"
       ],
-      "segments": [],
+      "segments": [
+        {
+          "id": "9f4f92ef-33a5-4a7b-9992-7ccb99d6dc9b",
+          "mode": "plane",
+          "waypoints": [
+            [
+              12.2264848,
+              41.8153911
+            ],
+            [
+              26.0902283,
+              44.5002921
+            ]
+          ],
+          "waypointNames": [
+            "Aeroporto di Roma-Fiumicino",
+            "Aeroportul Internațional București-Băneasa „Aurel Vlaicu”"
+          ],
+          "coords": [
+            [
+              12.2264848,
+              41.8153911
+            ],
+            [
+              26.0902283,
+              44.5002921
+            ]
+          ],
+          "distanceKm": 1161.9,
+          "routed": false
+        }
+      ],
       "createdAt": "2026-08-20T17:22:14.523Z",
-      "modifiedAt": "2026-08-20T17:25:38.089Z",
+      "modifiedAt": "2026-08-20T17:26:03.082Z",
       "modifiedBy": "Costi"
     },
     {
@@ -2938,7 +2969,7 @@
       "deletedBy": "Ale"
     }
   ],
-  "lastEditLabel": "modificati partecipanti",
+  "lastEditLabel": "aggiunta tratta Aereo",
   "plannedTrips": [
     {
       "id": "cc3946b4-d32d-42e0-b43a-53d1180fd9c0",
