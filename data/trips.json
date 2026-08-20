@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updatedAt": "2026-08-20T17:38:00.851Z",
+  "updatedAt": "2026-08-20T17:38:19.258Z",
   "trips": [
     {
       "id": "234cb4aa-4283-4ae1-92cd-66e1667058db",
@@ -13,9 +13,40 @@
       "participants": [
         "Ale&Costi"
       ],
-      "segments": [],
+      "segments": [
+        {
+          "id": "63bd3e2e-60f9-46c7-9fe0-45035081d131",
+          "mode": "plane",
+          "waypoints": [
+            [
+              10.395527,
+              43.6847937
+            ],
+            [
+              16.7661133,
+              41.1324805
+            ]
+          ],
+          "waypointNames": [
+            "Aeroporto internazionale Galileo Galilei",
+            "Aeroporto"
+          ],
+          "coords": [
+            [
+              10.395527,
+              43.6847937
+            ],
+            [
+              16.7661133,
+              41.1324805
+            ]
+          ],
+          "distanceKm": 594.8,
+          "routed": false
+        }
+      ],
       "createdAt": "2026-08-20T17:37:22.889Z",
-      "modifiedAt": "2026-08-20T17:38:00.687Z",
+      "modifiedAt": "2026-08-20T17:38:19.025Z",
       "modifiedBy": "Costi"
     },
     {
@@ -3673,7 +3704,7 @@
       "deletedBy": "Ale"
     }
   ],
-  "lastEditLabel": "modificati partecipanti",
+  "lastEditLabel": "aggiunta tratta Aereo",
   "plannedTrips": [
     {
       "id": "cc3946b4-d32d-42e0-b43a-53d1180fd9c0",
