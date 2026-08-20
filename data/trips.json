@@ -1,19 +1,21 @@
 {
   "version": 4,
-  "updatedAt": "2026-08-20T17:49:34.610Z",
+  "updatedAt": "2026-08-20T17:49:44.153Z",
   "trips": [
     {
       "id": "21386118-abca-4256-a531-053c44704ca4",
       "title": "Oslo",
       "start": "2025-03-07",
-      "end": "",
+      "end": "2025-03-10",
       "notes": "",
       "googleMapsUrl": "",
       "color": "#00D95F",
-      "participants": [],
+      "participants": [
+        "Ale&Costi"
+      ],
       "segments": [],
       "createdAt": "2026-08-20T17:49:14.273Z",
-      "modifiedAt": "2026-08-20T17:49:34.464Z",
+      "modifiedAt": "2026-08-20T17:49:44.127Z",
       "modifiedBy": "Costi"
     },
     {
@@ -4089,7 +4091,7 @@
       "deletedBy": "Ale"
     }
   ],
-  "lastEditLabel": "modificato viaggio",
+  "lastEditLabel": "modificati partecipanti",
   "plannedTrips": [
     {
       "id": "cc3946b4-d32d-42e0-b43a-53d1180fd9c0",
