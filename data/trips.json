@@ -1,10 +1,10 @@
 {
   "version": 4,
-  "updatedAt": "2026-08-20T17:37:30.820Z",
+  "updatedAt": "2026-08-20T17:37:34.783Z",
   "trips": [
     {
       "id": "234cb4aa-4283-4ae1-92cd-66e1667058db",
-      "title": "Matera (",
+      "title": "Matera (chirurgica)",
       "start": "",
       "end": "",
       "notes": "",
@@ -13,7 +13,7 @@
       "participants": [],
       "segments": [],
       "createdAt": "2026-08-20T17:37:22.889Z",
-      "modifiedAt": "2026-08-20T17:37:30.878Z",
+      "modifiedAt": "2026-08-20T17:37:34.809Z",
       "modifiedBy": "Costi"
     },
     {
