@@ -1,11 +1,11 @@
 {
   "version": 4,
-  "updatedAt": "2026-08-20T17:07:44.103Z",
+  "updatedAt": "2026-08-20T17:07:51.325Z",
   "trips": [
     {
       "id": "e58a5696-e328-44fc-973d-9c278808d2d2",
       "title": "Basso Lazio",
-      "start": "",
+      "start": "2023-04-06",
       "end": "",
       "notes": "",
       "googleMapsUrl": "",
@@ -13,7 +13,7 @@
       "participants": [],
       "segments": [],
       "createdAt": "2026-08-20T17:06:38.643Z",
-      "modifiedAt": "2026-08-20T17:07:44.175Z",
+      "modifiedAt": "2026-08-20T17:07:51.426Z",
       "modifiedBy": "Costi"
     },
     {
