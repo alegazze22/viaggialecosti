@@ -1,7 +1,21 @@
 {
   "version": 4,
-  "updatedAt": "2026-08-20T17:50:20.608Z",
+  "updatedAt": "2026-08-20T17:52:58.811Z",
   "trips": [
+    {
+      "id": "d8c3f844-0de3-43fc-af93-d071f2c6bafc",
+      "title": "Nuovo viaggio",
+      "start": "",
+      "end": "",
+      "notes": "",
+      "googleMapsUrl": "",
+      "color": "#FF4D00",
+      "participants": [],
+      "segments": [],
+      "createdAt": "2026-08-20T17:52:58.511Z",
+      "modifiedAt": "2026-08-20T17:52:58.511Z",
+      "modifiedBy": "Costi"
+    },
     {
       "id": "21386118-abca-4256-a531-053c44704ca4",
       "title": "Oslo",
@@ -38,16 +52,16 @@
           ],
           "coords": [
             [
-              10.395527,
-              43.6847937
+              10.39553,
+              43.68479
             ],
             [
-              11.0996754,
-              60.1978654
+              11.09968,
+              60.19787
             ],
             [
-              10.395527,
-              43.6847937
+              10.39553,
+              43.68479
             ]
           ],
           "distanceKm": 3673.6,
@@ -4131,7 +4145,7 @@
       "deletedBy": "Ale"
     }
   ],
-  "lastEditLabel": "aggiunta tratta Aereo",
+  "lastEditLabel": "nuovo viaggio",
   "plannedTrips": [
     {
       "id": "cc3946b4-d32d-42e0-b43a-53d1180fd9c0",
