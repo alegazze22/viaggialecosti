@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updatedAt": "2026-08-20T17:16:59.232Z",
+  "updatedAt": "2026-08-20T17:17:35.937Z",
   "trips": [
     {
       "id": "934be5d2-5a94-4bdf-b360-062725e12292",
@@ -9,7 +9,7 @@
       "end": "2023-07-21",
       "notes": "",
       "googleMapsUrl": "",
-      "color": "#FF7900",
+      "color": "#6C2BD9",
       "participants": [
         "Ale&Costi"
       ],
@@ -633,7 +633,7 @@
         }
       ],
       "createdAt": "2026-08-20T17:13:16.140Z",
-      "modifiedAt": "2026-08-20T17:16:59.274Z",
+      "modifiedAt": "2026-08-20T17:17:35.553Z",
       "modifiedBy": "Costi"
     },
     {
@@ -2179,7 +2179,7 @@
       "deletedBy": "Ale"
     }
   ],
-  "lastEditLabel": "aggiunta tratta Treno",
+  "lastEditLabel": "cambiato colore",
   "plannedTrips": [
     {
       "id": "cc3946b4-d32d-42e0-b43a-53d1180fd9c0",
