@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updatedAt": "2026-08-20T17:53:31.135Z",
+  "updatedAt": "2026-08-20T17:53:49.047Z",
   "trips": [
     {
       "id": "d8c3f844-0de3-43fc-af93-d071f2c6bafc",
@@ -13,9 +13,49 @@
       "participants": [
         "Ale&Costi"
       ],
-      "segments": [],
+      "segments": [
+        {
+          "id": "fafa8b70-d9df-4128-b0c4-1ab226471d48",
+          "mode": "plane",
+          "waypoints": [
+            [
+              12.2264848,
+              41.8153911
+            ],
+            [
+              8.5552003,
+              50.0244126
+            ],
+            [
+              12.2264848,
+              41.8153911
+            ]
+          ],
+          "waypointNames": [
+            "Aeroporto di Roma-Fiumicino",
+            "Flughafen Frankfurt am Main",
+            "Aeroporto di Roma-Fiumicino"
+          ],
+          "coords": [
+            [
+              12.2264848,
+              41.8153911
+            ],
+            [
+              8.5552003,
+              50.0244126
+            ],
+            [
+              12.2264848,
+              41.8153911
+            ]
+          ],
+          "distanceKm": 1911.3,
+          "routed": false
+        }
+      ],
       "createdAt": "2026-08-20T17:52:58.511Z",
-      "modifiedAt": "2026-08-20T17:53:31.095Z",
+      "modifiedAt": "2026-08-20T17:53:48.503Z",
       "modifiedBy": "Costi"
     },
     {
@@ -4147,7 +4187,7 @@
       "deletedBy": "Ale"
     }
   ],
-  "lastEditLabel": "modificato viaggio",
+  "lastEditLabel": "aggiunta tratta Aereo",
   "plannedTrips": [
     {
       "id": "cc3946b4-d32d-42e0-b43a-53d1180fd9c0",
