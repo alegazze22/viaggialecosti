@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updatedAt": "2026-08-20T17:42:32.010Z",
+  "updatedAt": "2026-08-20T17:42:45.578Z",
   "trips": [
     {
       "id": "5ea6fb27-7253-4d01-8842-7b08ad5d4eee",
@@ -1359,7 +1359,7 @@
     },
     {
       "id": "71f667de-b456-4287-baa6-6c8d6ff18b15",
-      "title": "Nuovo viaggio",
+      "title": "Corsica",
       "start": "",
       "end": "",
       "notes": "",
@@ -1368,7 +1368,7 @@
       "participants": [],
       "segments": [],
       "createdAt": "2026-08-20T17:28:58.828Z",
-      "modifiedAt": "2026-08-20T17:42:31.494Z",
+      "modifiedAt": "2026-08-20T17:42:45.502Z",
       "modifiedBy": "Costi"
     },
     {
@@ -3995,7 +3995,7 @@
       "deletedBy": "Ale"
     }
   ],
-  "lastEditLabel": "cambiato colore",
+  "lastEditLabel": "modificato viaggio",
   "plannedTrips": [
     {
       "id": "cc3946b4-d32d-42e0-b43a-53d1180fd9c0",
