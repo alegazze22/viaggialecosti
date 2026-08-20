@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updatedAt": "2026-08-20T17:26:21.825Z",
+  "updatedAt": "2026-08-20T17:26:37.471Z",
   "trips": [
     {
       "id": "c9d62274-7076-484c-8e58-4643456e41e5",
@@ -82,10 +82,40 @@
           ],
           "distanceKm": 1172,
           "routed": false
+        },
+        {
+          "id": "68110789-9f02-4411-86e8-a736b4912755",
+          "mode": "train",
+          "waypoints": [
+            [
+              11.288447,
+              44.5344305
+            ],
+            [
+              10.6797912,
+              43.4714722
+            ]
+          ],
+          "waypointNames": [
+            "Aeroporto di Bologna \"Guglielmo Marconi\"",
+            "Pisa"
+          ],
+          "coords": [
+            [
+              11.288447,
+              44.5344305
+            ],
+            [
+              10.6797912,
+              43.4714722
+            ]
+          ],
+          "distanceKm": 127.8,
+          "routed": false
         }
       ],
       "createdAt": "2026-08-20T17:22:14.523Z",
-      "modifiedAt": "2026-08-20T17:26:21.940Z",
+      "modifiedAt": "2026-08-20T17:26:37.558Z",
       "modifiedBy": "Costi"
     },
     {
@@ -3008,7 +3038,7 @@
       "deletedBy": "Ale"
     }
   ],
-  "lastEditLabel": "aggiunta tratta Aereo",
+  "lastEditLabel": "aggiunta tratta Treno",
   "plannedTrips": [
     {
       "id": "cc3946b4-d32d-42e0-b43a-53d1180fd9c0",
