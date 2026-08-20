@@ -1,7 +1,21 @@
 {
   "version": 4,
-  "updatedAt": "2026-08-20T17:21:14.781Z",
+  "updatedAt": "2026-08-20T17:22:14.543Z",
   "trips": [
+    {
+      "id": "c9d62274-7076-484c-8e58-4643456e41e5",
+      "title": "Nuovo viaggio",
+      "start": "",
+      "end": "",
+      "notes": "",
+      "googleMapsUrl": "",
+      "color": "#FACC15",
+      "participants": [],
+      "segments": [],
+      "createdAt": "2026-08-20T17:22:14.523Z",
+      "modifiedAt": "2026-08-20T17:22:14.523Z",
+      "modifiedBy": "Costi"
+    },
     {
       "id": "bbc35e33-8701-4b35-8f63-471dfacf8e12",
       "title": "Lago di Como (al contrario)",
@@ -2922,7 +2936,7 @@
       "deletedBy": "Ale"
     }
   ],
-  "lastEditLabel": "aggiunta tratta Auto",
+  "lastEditLabel": "nuovo viaggio",
   "plannedTrips": [
     {
       "id": "cc3946b4-d32d-42e0-b43a-53d1180fd9c0",
