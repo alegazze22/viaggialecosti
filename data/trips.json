@@ -1,10 +1,10 @@
 {
   "version": 4,
-  "updatedAt": "2026-08-20T17:41:40.594Z",
+  "updatedAt": "2026-08-20T17:41:43.327Z",
   "trips": [
     {
       "id": "5ea6fb27-7253-4d01-8842-7b08ad5d4eee",
-      "title": "New Yorj",
+      "title": "New York",
       "start": "2024-09-18",
       "end": "2024-09-23",
       "notes": "",
@@ -13,7 +13,7 @@
       "participants": [],
       "segments": [],
       "createdAt": "2026-08-20T17:41:07.907Z",
-      "modifiedAt": "2026-08-20T17:41:40.325Z",
+      "modifiedAt": "2026-08-20T17:41:43.178Z",
       "modifiedBy": "Costi"
     },
     {
