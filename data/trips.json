@@ -1,7 +1,23 @@
 {
   "version": 4,
-  "updatedAt": "2026-08-27T11:11:23.619Z",
+  "updatedAt": "2026-08-27T11:12:52.387Z",
   "trips": [
+    {
+      "id": "dad78337-ce37-4b51-abc7-c1a4cfbaf478",
+      "title": "Nuovo viaggio",
+      "start": "",
+      "end": "",
+      "notes": "",
+      "googleMapsUrl": "",
+      "color": "#FF2D55",
+      "participants": [
+        "CostiFriends"
+      ],
+      "segments": [],
+      "createdAt": "2026-08-27T11:12:47.857Z",
+      "modifiedAt": "2026-08-27T11:12:49.127Z",
+      "modifiedBy": "Costi"
+    },
     {
       "id": "24b5eeef-7809-439e-8b36-8f2ecc69ce41",
       "title": "Bruxelles e dintorni ",
@@ -33,12 +49,12 @@
           ],
           "coords": [
             [
-              10.395527,
-              43.6847937
+              10.39553,
+              43.68479
             ],
             [
-              4.4832587,
-              50.8983361
+              4.48326,
+              50.89834
             ]
           ],
           "distanceKm": 917,
@@ -4373,7 +4389,7 @@
       "deletedBy": "Ale"
     }
   ],
-  "lastEditLabel": "aggiunta tratta Auto",
+  "lastEditLabel": "modificati partecipanti",
   "plannedTrips": [
     {
       "id": "cc3946b4-d32d-42e0-b43a-53d1180fd9c0",
