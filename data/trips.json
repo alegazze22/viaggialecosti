@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updatedAt": "2026-08-27T11:14:13.702Z",
+  "updatedAt": "2026-08-27T11:14:38.170Z",
   "trips": [
     {
       "id": "dad78337-ce37-4b51-abc7-c1a4cfbaf478",
@@ -91,10 +91,49 @@
           ],
           "distanceKm": 428.9,
           "routed": false
+        },
+        {
+          "id": "5c0d8df0-3e4a-41c6-af25-de0895846eac",
+          "mode": "plane",
+          "waypoints": [
+            [
+              -9.128721,
+              38.7689425
+            ],
+            [
+              -9.128721,
+              38.7689425
+            ],
+            [
+              12.2264848,
+              41.8153911
+            ]
+          ],
+          "waypointNames": [
+            "Airport",
+            "Airport",
+            "Aeroporto di Roma-Fiumicino"
+          ],
+          "coords": [
+            [
+              -9.128721,
+              38.7689425
+            ],
+            [
+              -9.128721,
+              38.7689425
+            ],
+            [
+              12.2264848,
+              41.8153911
+            ]
+          ],
+          "distanceKm": 1837.6,
+          "routed": false
         }
       ],
       "createdAt": "2026-08-27T11:12:47.857Z",
-      "modifiedAt": "2026-08-27T11:14:10.888Z",
+      "modifiedAt": "2026-08-27T11:14:34.935Z",
       "modifiedBy": "Costi"
     },
     {
@@ -4468,7 +4507,7 @@
       "deletedBy": "Ale"
     }
   ],
-  "lastEditLabel": "aggiunta tratta Treno",
+  "lastEditLabel": "aggiunta tratta Aereo",
   "plannedTrips": [
     {
       "id": "cc3946b4-d32d-42e0-b43a-53d1180fd9c0",
