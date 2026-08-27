@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updatedAt": "2026-08-27T11:10:38.486Z",
+  "updatedAt": "2026-08-27T11:10:57.371Z",
   "trips": [
     {
       "id": "24b5eeef-7809-439e-8b36-8f2ecc69ce41",
@@ -13,9 +13,40 @@
       "participants": [
         "Ale&Costi"
       ],
-      "segments": [],
+      "segments": [
+        {
+          "id": "a145e05c-028e-4139-aaa1-75008b020122",
+          "mode": "plane",
+          "waypoints": [
+            [
+              10.395527,
+              43.6847937
+            ],
+            [
+              4.4832587,
+              50.8983361
+            ]
+          ],
+          "waypointNames": [
+            "Aeroporto internazionale Galileo Galilei",
+            "Brussels Airport"
+          ],
+          "coords": [
+            [
+              10.395527,
+              43.6847937
+            ],
+            [
+              4.4832587,
+              50.8983361
+            ]
+          ],
+          "distanceKm": 917,
+          "routed": false
+        }
+      ],
       "createdAt": "2026-08-27T11:10:10.926Z",
-      "modifiedAt": "2026-08-27T11:10:35.787Z",
+      "modifiedAt": "2026-08-27T11:10:54.676Z",
       "modifiedBy": "Costi"
     },
     {
@@ -4203,7 +4234,7 @@
       "deletedBy": "Ale"
     }
   ],
-  "lastEditLabel": "modificati partecipanti",
+  "lastEditLabel": "aggiunta tratta Aereo",
   "plannedTrips": [
     {
       "id": "cc3946b4-d32d-42e0-b43a-53d1180fd9c0",
