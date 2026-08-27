@@ -1,12 +1,12 @@
 {
   "version": 4,
-  "updatedAt": "2026-08-27T11:13:03.976Z",
+  "updatedAt": "2026-08-27T11:13:09.483Z",
   "trips": [
     {
       "id": "dad78337-ce37-4b51-abc7-c1a4cfbaf478",
       "title": "Nuovo viaggio",
       "start": "2022-07-20",
-      "end": "",
+      "end": "2022-07-26",
       "notes": "",
       "googleMapsUrl": "",
       "color": "#FF2D55",
@@ -15,7 +15,7 @@
       ],
       "segments": [],
       "createdAt": "2026-08-27T11:12:47.857Z",
-      "modifiedAt": "2026-08-27T11:13:01.290Z",
+      "modifiedAt": "2026-08-27T11:13:06.787Z",
       "modifiedBy": "Costi"
     },
     {
