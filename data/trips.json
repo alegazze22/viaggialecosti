@@ -1,19 +1,19 @@
 {
   "version": 4,
-  "updatedAt": "2026-08-27T11:10:14.177Z",
+  "updatedAt": "2026-08-27T11:10:20.188Z",
   "trips": [
     {
       "id": "24b5eeef-7809-439e-8b36-8f2ecc69ce41",
-      "title": "Nuovo viaggio",
+      "title": "Bruxelles e dintorni ",
       "start": "",
       "end": "",
       "notes": "",
       "googleMapsUrl": "",
-      "color": "#FF1744",
+      "color": "#FF3366",
       "participants": [],
       "segments": [],
       "createdAt": "2026-08-27T11:10:10.926Z",
-      "modifiedAt": "2026-08-27T11:10:10.927Z",
+      "modifiedAt": "2026-08-27T11:10:17.493Z",
       "modifiedBy": "Costi"
     },
     {
@@ -4201,7 +4201,7 @@
       "deletedBy": "Ale"
     }
   ],
-  "lastEditLabel": "nuovo viaggio",
+  "lastEditLabel": "cambiato colore",
   "plannedTrips": [
     {
       "id": "cc3946b4-d32d-42e0-b43a-53d1180fd9c0",
