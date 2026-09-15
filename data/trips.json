@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updatedAt": "2026-09-15T10:05:54.830Z",
+  "updatedAt": "2026-09-15T10:07:10.835Z",
   "trips": [
     {
       "id": "dad78337-ce37-4b51-abc7-c1a4cfbaf478",
@@ -4508,8 +4508,28 @@
       "deletedBy": "Costi"
     }
   ],
-  "lastEditLabel": "eliminato viaggio",
+  "lastEditLabel": "salvato viaggio da fare",
   "plannedTrips": [
+    {
+      "id": "88af564c-5012-411a-8b64-ad8d231eb6a4",
+      "title": "Pompei & Sorrento",
+      "status": "booked",
+      "color": "#00E5FF",
+      "destinations": [],
+      "start": "2026-11-14",
+      "end": "2026-11-15",
+      "mode": "plane",
+      "participants": [
+        "Ale&Costi"
+      ],
+      "googleMapsUrl": "",
+      "notes": "",
+      "links": [],
+      "checklist": [],
+      "createdAt": "2026-09-15T10:06:49.564Z",
+      "modifiedAt": "2026-09-15T10:07:09.415Z",
+      "modifiedBy": "Costi"
+    },
     {
       "id": "c1615ec0-bd45-449c-a5c1-d54774a7ec49",
       "title": "Torino",
