@@ -1,21 +1,7 @@
 {
   "version": 4,
-  "updatedAt": "2026-09-15T10:05:23.756Z",
+  "updatedAt": "2026-09-15T10:05:54.830Z",
   "trips": [
-    {
-      "id": "8820b150-c0f8-4791-844b-f60cc8c8b48b",
-      "title": "Nuovo viaggio",
-      "start": "",
-      "end": "",
-      "notes": "",
-      "googleMapsUrl": "",
-      "color": "#FF006E",
-      "participants": [],
-      "segments": [],
-      "createdAt": "2026-09-15T10:01:59.405Z",
-      "modifiedAt": "2026-09-15T10:01:59.406Z",
-      "modifiedBy": "Costi"
-    },
     {
       "id": "dad78337-ce37-4b51-abc7-c1a4cfbaf478",
       "title": "Algarve",
@@ -4515,9 +4501,14 @@
       "id": "df74a303-a7a3-44f4-b69f-fefaa702472d",
       "deletedAt": "2026-08-19T20:58:41.232Z",
       "deletedBy": "Ale"
+    },
+    {
+      "id": "8820b150-c0f8-4791-844b-f60cc8c8b48b",
+      "deletedAt": "2026-09-15T10:05:53.354Z",
+      "deletedBy": "Costi"
     }
   ],
-  "lastEditLabel": "salvato viaggio da fare",
+  "lastEditLabel": "eliminato viaggio",
   "plannedTrips": [
     {
       "id": "c1615ec0-bd45-449c-a5c1-d54774a7ec49",
