@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updatedAt": "2026-09-15T10:07:10.835Z",
+  "updatedAt": "2026-09-15T10:07:22.771Z",
   "trips": [
     {
       "id": "dad78337-ce37-4b51-abc7-c1a4cfbaf478",
@@ -4515,7 +4515,18 @@
       "title": "Pompei & Sorrento",
       "status": "booked",
       "color": "#00E5FF",
-      "destinations": [],
+      "destinations": [
+        {
+          "name": "Pompei",
+          "lat": 40.7491267,
+          "lon": 14.5006415
+        },
+        {
+          "name": "Sorrento",
+          "lat": 40.624906,
+          "lon": 14.374836
+        }
+      ],
       "start": "2026-11-14",
       "end": "2026-11-15",
       "mode": "plane",
@@ -4527,7 +4538,7 @@
       "links": [],
       "checklist": [],
       "createdAt": "2026-09-15T10:06:49.564Z",
-      "modifiedAt": "2026-09-15T10:07:09.415Z",
+      "modifiedAt": "2026-09-15T10:07:21.508Z",
       "modifiedBy": "Costi"
     },
     {
