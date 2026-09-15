@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updatedAt": "2026-09-15T10:03:03.025Z",
+  "updatedAt": "2026-09-15T10:04:56.955Z",
   "trips": [
     {
       "id": "8820b150-c0f8-4791-844b-f60cc8c8b48b",
@@ -4523,7 +4523,7 @@
       "id": "c1615ec0-bd45-449c-a5c1-d54774a7ec49",
       "title": "Torino",
       "status": "idea",
-      "color": "#FFF200",
+      "color": "#6C2BD9",
       "destinations": [
         {
           "name": "Laboratorio Zanzara",
@@ -4540,7 +4540,7 @@
       "links": [],
       "checklist": [],
       "createdAt": "2026-09-15T10:02:09.038Z",
-      "modifiedAt": "2026-09-15T10:03:01.417Z",
+      "modifiedAt": "2026-09-15T10:04:55.593Z",
       "modifiedBy": "Costi"
     },
     {
