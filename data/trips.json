@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updatedAt": "2026-09-15T10:04:56.955Z",
+  "updatedAt": "2026-09-15T10:05:23.756Z",
   "trips": [
     {
       "id": "8820b150-c0f8-4791-844b-f60cc8c8b48b",
@@ -4529,6 +4529,11 @@
           "name": "Laboratorio Zanzara",
           "lat": 45.0758102,
           "lon": 7.6812359
+        },
+        {
+          "name": "Lingotto",
+          "lat": 45.0314038,
+          "lon": 7.6668834
         }
       ],
       "start": "",
@@ -4540,7 +4545,7 @@
       "links": [],
       "checklist": [],
       "createdAt": "2026-09-15T10:02:09.038Z",
-      "modifiedAt": "2026-09-15T10:04:55.593Z",
+      "modifiedAt": "2026-09-15T10:05:22.429Z",
       "modifiedBy": "Costi"
     },
     {
