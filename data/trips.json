@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updatedAt": "2026-09-15T10:02:00.823Z",
+  "updatedAt": "2026-09-15T10:03:03.025Z",
   "trips": [
     {
       "id": "8820b150-c0f8-4791-844b-f60cc8c8b48b",
@@ -4517,8 +4517,32 @@
       "deletedBy": "Ale"
     }
   ],
-  "lastEditLabel": "nuovo viaggio",
+  "lastEditLabel": "salvato viaggio da fare",
   "plannedTrips": [
+    {
+      "id": "c1615ec0-bd45-449c-a5c1-d54774a7ec49",
+      "title": "Torino",
+      "status": "idea",
+      "color": "#FFF200",
+      "destinations": [
+        {
+          "name": "Laboratorio Zanzara",
+          "lat": 45.0758102,
+          "lon": 7.6812359
+        }
+      ],
+      "start": "",
+      "end": "",
+      "mode": "train",
+      "participants": [],
+      "googleMapsUrl": "",
+      "notes": "",
+      "links": [],
+      "checklist": [],
+      "createdAt": "2026-09-15T10:02:09.038Z",
+      "modifiedAt": "2026-09-15T10:03:01.417Z",
+      "modifiedBy": "Costi"
+    },
     {
       "id": "cc3946b4-d32d-42e0-b43a-53d1180fd9c0",
       "title": "Budapest",
